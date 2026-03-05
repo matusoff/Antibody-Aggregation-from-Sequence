@@ -28,6 +28,7 @@ This project investigates whether **embeddings from a protein language model (ES
 Dataset used:
 
 **GDPa1 antibody developability dataset**
+https://huggingface.co/datasets/ginkgo-datapoints/GDPa1
 
 Approximately **242 antibodies** with experimental developability measurements including:
 
@@ -283,7 +284,8 @@ This experiment shows that **protein language model embeddings capture meaningfu
 If using the dataset or model in research, please cite:
 
 ESM Protein Language Model  
-Rives et al.
+https://www.science.org/doi/10.1126/science.ade2574
 
 GDPa1 antibody developability dataset  
 Jain et al.
+https://huggingface.co/datasets/ginkgo-datapoints/GDPa1
